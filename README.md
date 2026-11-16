@@ -16,11 +16,11 @@ To calculate the PSNR (Peak Signal-to-Noise Ratio), run calcular_psnr_3.
 
 The resulting images are saved as:
 
-crecimiento.jpg
+      crecimiento.jpg
 
-Ecualizada.jpg
+      Ecualizada.jpg
 
-puga.jpg
+      puga.jpg
 
 You can also find the PSNR results in captura.png.
 
