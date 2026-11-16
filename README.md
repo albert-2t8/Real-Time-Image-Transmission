@@ -27,3 +27,7 @@ You can also find the PSNR results in captura.png.
 Required Libraries
 
 Install the following Python libraries: numpy, matplotlib, socket, opencv-python (cv2)
+
+
+<img width="1833" height="777" alt="captura" src="https://github.com/user-attachments/assets/12d9c0af-671b-4c33-a8a3-8af046e7f5fc" />
+
